@@ -1,6 +1,9 @@
 body {
     background: url("/pic.jpg") no-repeat;
     background-size: cover;
+    background-size: 234%;
+    background-position-x: 38%;
+    background-position-y: 0%;
 }
 
 h1 {
